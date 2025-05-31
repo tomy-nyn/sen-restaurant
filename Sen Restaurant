@@ -1,0 +1,7 @@
+cd C:\Users\Tomy\Desktop\Sen Restaurant
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/tomy-nyn/Sen Restaurant.git
+git branch -M main
+git push -u origin main
